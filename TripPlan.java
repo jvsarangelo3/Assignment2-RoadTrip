@@ -61,6 +61,6 @@ public class TripPlan {
         }
 
         System.out.println("Final Route: " + route);
-        System.out.println("Final Distance: " + finalDistance);
+        System.out.println("Final Distance: " + finalDistance + " miles");
     }
 }
